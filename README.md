@@ -27,18 +27,4 @@ I use CSV files containing transfer market data:
 - Matplotlib
 - Jupyter Notebook
 
-## Usage
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/transfer-market-dw.git
-   cd transfer-market-dw
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Open and run the Jupyter Notebook:
-   ```sh
-   jupyter notebook DW_project_code_v121321.ipynb
-   ```
 
