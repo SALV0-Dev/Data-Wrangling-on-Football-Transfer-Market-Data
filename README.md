@@ -40,6 +40,3 @@ I use CSV files containing transfer market data:
    jupyter notebook DW_project_code_v121321.ipynb
    ```
 
-## License
-This project is open-source under the MIT License.
-
