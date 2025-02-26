@@ -3,6 +3,8 @@
 ## Overview
 I created this project to perform data wrangling and data analysis on football (soccer) transfer market data, specifically for the 2022/2023 Premier League season. My main aim is to clean, transform, and analyze the data to gain powerful insights into market trends, player valuations, and club performances.
 
+The project is based on this dataset: https://www.kaggle.com/datasets/davidcariboo/player-scores?resource=download
+
 ## Dataset
 I use CSV files containing transfer market data:
 - `clubs.csv` - Club details, including market values and squad information.
