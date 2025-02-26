@@ -1,4 +1,4 @@
-# Transfer Market Data Wrangling and Analysis
+# Transfer Market Data Wrangling
 
 ## Overview
 I created this project to perform data wrangling and data analysis on football (soccer) transfer market data, specifically for the 2022/2023 Premier League season. My main aim is to clean, transform, and analyze the data to gain powerful insights into market trends, player valuations, and club performances.
